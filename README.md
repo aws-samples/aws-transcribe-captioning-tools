@@ -1,6 +1,6 @@
-# AWS VOD Captioning using AWS Transcribe, Translate, and Polly.
+# AWS VOD Captioning using AWS Transcribe
 
-> Add subtitles to video with AWS machine learning services. 
+> Add subtitles to video with AWS machine learning services. Inlcuding AWS Polly, AWS Transcribe, and AWS Translate.
 
 ## Overview
 This repository contains code for VOD subtitle creation, described in the AWS blog post [“Create video subtitles with translation using machine learning”](https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-translation-using-machine-learning/).
