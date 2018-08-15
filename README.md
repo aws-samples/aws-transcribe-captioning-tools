@@ -5,7 +5,7 @@
 ## Overview
 This repository contains code for VOD subtitle creation, described in the AWS blog post [“Create video subtitles with translation using machine learning”](https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-translation-using-machine-learning/).
 
-See the "Getting Started" to launch your own QnABot,
+See the "Getting Started" to setup the code contained in the src folder.
 
 ## Prerequisites
 
@@ -18,8 +18,12 @@ See the "Getting Started" to launch your own QnABot,
 
 
 ## Getting Started
+
+The code for this guide is contained in the src folder.
+
 Head on over to this blog post to see the instructions:
 https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-translation-using-machine-learning/
+
 
 
 
