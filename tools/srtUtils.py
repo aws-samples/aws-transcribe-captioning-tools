@@ -215,7 +215,11 @@ def getPhrasesFromTranscript( transcript ):
 			phrase = newPhrase()
 			nPhrase = True
 			x = 0
-			
+	
+	# if there are any words in the final phrase add to phrases  
+	if(len(phrase["words"]) > 0):
+		phrases.append(phrase)	
+				
 	return phrases
 	
 
