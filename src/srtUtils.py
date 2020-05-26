@@ -75,6 +75,8 @@ def writeTranscriptToSRT( transcript, sourceLangCode, srtFileName ):
 	writeSRT( phrases, srtFileName )
 	
 
+    
+
 # ==================================================================================
 # Function: writeTranscriptToSRT
 # Purpose: Based on the JSON transcript provided by Amazon Transcribe, get the phrases from the translation 
