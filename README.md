@@ -38,4 +38,4 @@ python srt.py output_file_from_transcribe.json
 
 ## License Summary
 
-This sample code is made available under a modified MIT license. See the LICENSE file.
+This sample code is made available under a modified MIT license.See the LICENSE file.
