@@ -1,0 +1,340 @@
+1
+00:00:10,240 --> 00:00:14,529
+Hello, Statistic body. I'm yoga. Welcome to
+
+2
+00:00:14,539 --> 00:00:21,510
+competition. All statistic subject. Okay, in this
+
+3
+00:00:21,510 --> 00:00:32,600
+section I will tell you about data collection, the
+
+4
+00:00:32,600 --> 00:00:39,299
+objectives off the session, our definition off data types
+
+5
+00:00:39,310 --> 00:00:45,579
+, off data primary and secondary data and the last
+
+6
+00:00:45,590 --> 00:00:53,719
+IHS data collection techniques. Okay, Now I start
+
+7
+00:00:53,729 --> 00:01:00,490
+from definition off data, as we know from the
+
+8
+00:01:00,490 --> 00:01:06,930
+previous chapter that statistics is important and closely related to
+
+9
+00:01:06,930 --> 00:01:11,269
+data. Now, I will explain about the definition
+
+10
+00:01:11,280 --> 00:01:17,200
+off data itself. In definition one, data are
+
+11
+00:01:17,200 --> 00:01:23,200
+plain facts usually roll numbers and in the definition to
+
+12
+00:01:23,939 --> 00:01:30,140
+data are individual pieces off, factual information recorded and
+
+13
+00:01:30,140 --> 00:01:37,000
+used for the purpose off analysis. So from the
+
+14
+00:01:37,010 --> 00:01:40,969
+two definitions, we know that data is the part
+
+15
+00:01:40,969 --> 00:01:49,319
+off information. Now, I will explain about types
+
+16
+00:01:49,329 --> 00:01:56,659
+off data data is divided into two kinds, namely
+
+17
+00:01:57,040 --> 00:02:08,120
+qualitative and quantitative. Qualitative data itself is divided into
+
+18
+00:02:08,120 --> 00:02:15,650
+nominal and or denial for quantitative is defected into inter
+
+19
+00:02:15,650 --> 00:02:21,680
+file and rescue each off. The inter fall and
+
+20
+00:02:21,680 --> 00:02:32,370
+rescue have discrete data and continuous data. Okay,
+
+21
+00:02:34,439 --> 00:02:37,960
+Now I will explain more detail about the types off
+
+22
+00:02:37,969 --> 00:02:43,939
+data. Qualitative. Okay. Qualitative is a data
+
+23
+00:02:43,939 --> 00:02:49,469
+concerned with descriptions which can be observed but cannot be
+
+24
+00:02:49,469 --> 00:02:55,969
+computed. And as we know, that qualitative data
+
+25
+00:02:57,939 --> 00:03:02,050
+is divided into nominal an orginal scale. No,
+
+26
+00:03:02,939 --> 00:03:07,840
+I will explain about the nominal scale nominal scale called
+
+27
+00:03:07,840 --> 00:03:14,449
+simply because levels you can check the examples below to
+
+28
+00:03:14,449 --> 00:03:27,259
+understand what the nominal is now for the orginal scale
+
+29
+00:03:28,539 --> 00:03:30,990
+, the orginal scale have order off the values.
+
+30
+00:03:31,610 --> 00:03:37,979
+The order is important and significant, but the differences
+
+31
+00:03:37,979 --> 00:03:44,020
+between each one is not really known. And you
+
+32
+00:03:44,020 --> 00:03:53,840
+can see the example below. Okay. Now its
+
+33
+00:03:53,840 --> 00:04:01,569
+quantitative quantitative is the one that focus on numbers and
+
+34
+00:04:01,770 --> 00:04:10,159
+mathematical calculations and can be calculated and computed and quantitative
+
+35
+00:04:11,340 --> 00:04:15,529
+. Uh huh. Toe rescue. The first is
+
+36
+00:04:15,540 --> 00:04:23,839
+interval scale and interval skills are numbering skills in which
+
+37
+00:04:23,850 --> 00:04:28,209
+we know both the order and the exact differences between
+
+38
+00:04:28,230 --> 00:04:33,129
+the values and second is ratio skills. Raise your
+
+39
+00:04:33,129 --> 00:04:39,709
+skills are data measurement skills because they tell us about
+
+40
+00:04:39,709 --> 00:04:43,589
+the order. They tell us the exact value between
+
+41
+00:04:43,589 --> 00:04:47,949
+units, and they also have a new absolute zero
+
+42
+00:04:48,189 --> 00:04:54,930
+, which allows for a wide range off both descriptive
+
+43
+00:04:54,939 --> 00:05:00,829
+and inferential statistics to be applied now I will explain
+
+44
+00:05:00,829 --> 00:05:11,980
+about discrete and continuous data for discrete data can only
+
+45
+00:05:11,980 --> 00:05:19,629
+take certain values. And that's the example, the
+
+46
+00:05:19,629 --> 00:05:26,850
+number off student and the number that appear after you
+
+47
+00:05:26,850 --> 00:05:40,860
+rolling dies and continuous data for continuous data can take
+
+48
+00:05:41,439 --> 00:05:46,699
+any value within a range. And the examples are
+
+49
+00:05:46,709 --> 00:05:51,930
+the first is a person's hey and then the time
+
+50
+00:05:51,939 --> 00:05:58,050
+in a race. And then a talks waked and
+
+51
+00:05:58,240 --> 00:06:05,930
+the length off a leaf. No, If there's
+
+52
+00:06:06,230 --> 00:06:15,230
+a question how we to get the data, the
+
+53
+00:06:15,230 --> 00:06:20,750
+answer is they're too option to get data. First
+
+54
+00:06:21,639 --> 00:06:27,089
+is get the data by ourselves. For example,
+
+55
+00:06:27,180 --> 00:06:31,160
+a researcher conduct some research, and he gathered the
+
+56
+00:06:31,160 --> 00:06:35,730
+data by himself. We called the data as primary
+
+57
+00:06:35,740 --> 00:06:42,790
+data. Second is Katie data from another source.
+
+58
+00:06:43,540 --> 00:06:46,259
+For example, I collect the data from Internet or
+
+59
+00:06:46,259 --> 00:06:49,769
+I ask my fellow researcher to give his data.
+
+60
+00:06:50,230 --> 00:06:54,769
+The data that I get is called secondary data,
+
+61
+00:06:59,139 --> 00:07:01,680
+and there are many techniques to get the data.
+
+62
+00:07:01,769 --> 00:07:05,089
+But in this session I only mentioned five techniques,
+
+63
+00:07:05,439 --> 00:07:14,649
+namely, record station senses, survey experiment and observation
+
+64
+00:07:17,439 --> 00:07:24,560
+. Registration is a method which in places more on
+
+65
+00:07:24,560 --> 00:07:35,610
+structured recording through various institutions, and census is a
+
+66
+00:07:35,610 --> 00:07:42,060
+complete way off collecting data where all elements in the
+
+67
+00:07:42,060 --> 00:07:46,800
+population that are object off the research are investigated or
+
+68
+00:07:46,810 --> 00:07:56,889
+enumerated one by one. And then the next ISS
+
+69
+00:07:56,889 --> 00:08:01,300
+survey survey is collecting information from a sample group to
+
+70
+00:08:01,300 --> 00:08:09,649
+learn about the entire population and next ISS experiment.
+
+71
+00:08:11,110 --> 00:08:16,930
+An experimental study has the researcher purposely attempting to influence
+
+72
+00:08:16,939 --> 00:08:20,939
+the result. The goal is to do their mind
+
+73
+00:08:20,949 --> 00:08:26,550
+what effect a particular treatment has on the outcome.
+
+74
+00:08:28,439 --> 00:08:33,570
+Researchers take measurements or surface off the sample population,
+
+75
+00:08:35,240 --> 00:08:46,169
+and you can read the example below. No,
+
+76
+00:08:46,309 --> 00:08:52,710
+the observational in the observational study, the simple population
+
+77
+00:08:52,720 --> 00:08:58,529
+being studied ISS miserable or surveilled as it ISS.
+
+78
+00:08:58,340 --> 00:09:05,879
+The researcher observes the subjects and missiles variables but doesn't
+
+79
+00:09:05,879 --> 00:09:09,779
+influence the population in any way or attempt to intervene
+
+80
+00:09:09,970 --> 00:09:13,990
+in the study. There is no manipulation by the
+
+81
+00:09:13,990 --> 00:09:20,659
+researcher, and the last is that those that we
+
+82
+00:09:20,659 --> 00:09:26,480
+can use to collect the data. You can use
+
+83
+00:09:26,480 --> 00:09:33,049
+questionnaire in their view checklist or any digital tools.
+
+84
+00:09:35,240 --> 00:09:41,110
+Okay, I think enough for the session. I
+
+85
+00:09:41,110 --> 00:09:45,769
+hope you enjoy that. And CIA
+

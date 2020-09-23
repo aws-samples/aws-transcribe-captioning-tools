@@ -48,16 +48,16 @@ def writeAudio( output_file, stream ):
 
 	bytes = stream.read()
 	
-	print "\t==> Writing ", len(bytes), "bytes to audio file: ", output_file
+	print("\t==> Writing {:d} bytes to audio file: {:s}".format(len(output_file), output_file))
 	try:
 		# Open a file for writing the output as a binary stream
 		with open(output_file, "wb") as file:
 			file.write(bytes)
 		
 		if file.closed:
-				print "\t==>", output_file, " is closed"
+				print("\t==> {:s} is closed".format(output_file))
 		else:
-				print "\t==>", output_file, " is NOT closed"
+				print("\t==> {:s} is NOT closed".format(output_file))
 	except IOError as error:
 		# Could not write to file, exit gracefully
 		print(error)

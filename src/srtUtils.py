@@ -124,7 +124,7 @@ def getPhrasesFromTranslation( translation, targetLangCode ):
 	c = 0
 	seconds = 0
 
-	print "==> Creating phrases from translation..."
+	print("==> Creating phrases from translation...")
 
 	for word in words:
 
@@ -188,7 +188,7 @@ def getPhrasesFromTranscript( transcript ):
 	x = 0
 	c = 0
 
-	print "==> Creating phrases from transcript..."
+	print("==> Creating phrases from transcript...")
 
 	for item in items:
 
@@ -265,7 +265,7 @@ def translateTranscript( transcript, sourceLangCode, targetLangCode, region ):
 #                 filename - the name of the SRT output file (e.g. "mySRT.srt")
 # ==================================================================================
 def writeSRT( phrases, filename ):
-	print "==> Writing phrases to disk..."
+	print ("==> Writing phrases to disk...")
 
 	# open the files
 	e = codecs.open(filename,"w+", "utf-8")
