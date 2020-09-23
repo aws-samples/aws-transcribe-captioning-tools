@@ -26,7 +26,7 @@ https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-transl
 If you just want to create an SRT or a VTT file, the tools directory contains Python code to convert AWS Transcribe JSON to an SRT or a VTT file. These files can be imported and used on web or desktop video players. 
 
 ```shell
-python srt.py output_file_from_transcribe.json
+python srt.py output_file_from_transcribe.json output.srt
 ```
 
 
