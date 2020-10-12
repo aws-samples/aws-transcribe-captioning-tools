@@ -30,6 +30,8 @@ import json
 import boto3
 import re
 import codecs
+import time
+import math
 from audioUtils import *
 
 
@@ -52,12 +54,15 @@ def newPhrase():
 #                 seconds - the duration in seconds to convert to HH:MM:SS,mmm 
 # ==================================================================================	
 	# Format and return a string that contains the converted number of seconds into SRT format
-def getTimeCode( seconds ):
-	t_hund = int(seconds % 1 * 1000)
-	t_seconds = int( seconds )
-	t_secs = ((float( t_seconds) / 60) % 1) * 60
-	t_mins = int( t_seconds / 60 )
-	return str( "%02d:%02d:%02d,%03d" % (00, t_mins, int(t_secs), t_hund ))
+def getTimeCode(seconds):
+# ....t_hund = int(seconds % 1 * 1000)
+# ....t_seconds = int( seconds )
+# ....t_secs = ((float( t_seconds) / 60) % 1) * 60
+# ....t_mins = int( t_seconds / 60 )
+# ....return str( "%02d:%02d:%02d,%03d" % (00, t_mins, int(t_secs), t_hund ))
+    (frac, whole) = math.modf(seconds)
+    frac = frac * 1000
+    return str('%s,%03d' % (time.strftime('%H:%M:%S',time.gmtime(whole)), frac))
 	
 
 # ==================================================================================
