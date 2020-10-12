@@ -187,6 +187,7 @@ def getPhrasesFromTranscript( transcript ):
 	nPhrase = True
 	x = 0
 	c = 0
+	lastEndTime = ""
 
 	print("==> Creating phrases from transcript...")
 
@@ -197,6 +198,7 @@ def getPhrasesFromTranscript( transcript ):
 			if item["type"] == "pronunciation":
 				phrase["start_time"] = getTimeCode( float(item["start_time"]) )
 				nPhrase = False
+				lastEndTime =  getTimeCode( float(item["end_time"]) )
 			c+= 1
 		else:	
 			# get the end_time if the item is a pronuciation and store it
@@ -220,6 +222,8 @@ def getPhrasesFromTranscript( transcript ):
 	
 	# if there are any words in the final phrase add to phrases  
 	if(len(phrase["words"]) > 0):
+		if phrase['end_time'] == '':
+            		phrase['end_time'] = lastEndTime
 		phrases.append(phrase)	
 				
 	return phrases
